@@ -1,0 +1,18 @@
+   int a = 1;
+
+   void fun() {
+
+      char c;
+
+      printf("%c", c);
+
+   }
+
+   int main() {
+
+      int a = 3;
+      a = 2;
+      fun();
+
+   }
+   a = 2;
